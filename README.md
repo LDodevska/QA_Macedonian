@@ -1,1 +1,1 @@
-# QA_Macedonian
+# Cross-lingual transfer of resources and models for question answering
