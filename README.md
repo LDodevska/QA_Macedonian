@@ -10,7 +10,7 @@ Dependencies:
 
 ## Usage
 
-For using the translation notebook you need to add Google Cloud API credentials first (in the file *translation_api_credentials.json*).
+For using the translation notebook you need to add Google Cloud Translation API credentials first (in the file *translation_api_credentials.json*).
 
 The model training and evaluation is done within the toolkit [Jiant](https://github.com/nyu-mll/jiant.git). Jiant is an open-source Python toolkit for natural language understanding tasks.
 The notebooks for fine-tuning QA models in Macedonian were used in Google Colab (due to lack of computational resources). The code is not tested in other environments.
