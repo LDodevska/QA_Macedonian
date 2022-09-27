@@ -17,4 +17,4 @@ The notebooks for fine-tuning QA models in Macedonian were used in Google Colab 
 
 ## Datasets
 
-This project uses three QA datasets from the SuperGLUE benchmark: BoolQ, COPA and MultiRC. The translated Macedonian versions can be accessed [here](https://drive.google.com/drive/folders/1-8hLfW14D5lWz5g7jMzYNLR-DzMynlFR?usp=sharing).
+This project uses three QA datasets from the SuperGLUE benchmark: BoolQ, COPA and MultiRC. The semi-automatica translation of SuperGLUE in Macedonian can be accessed [here](https://drive.google.com/drive/folders/1-8hLfW14D5lWz5g7jMzYNLR-DzMynlFR?usp=sharing).
